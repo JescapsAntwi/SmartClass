@@ -1,0 +1,98 @@
+export const subjects = [
+  {
+    id: "all",
+    name: "All Subject",
+    description: "View all available subjects",
+    icon: "circle-dot",
+  },
+  {
+    id: "english",
+    name: "English",
+    description: "Reading, writing, grammar, and comprehension",
+    icon: "book",
+  },
+  {
+    id: "business",
+    name: "Business",
+    description: "Economics, management, and entrepreneurship",
+    icon: "building",
+  },
+  {
+    id: "history",
+    name: "History",
+    description: "Past events, civilizations, and cultural development",
+    icon: "history",
+  },
+  {
+    id: "geography",
+    name: "Geography",
+    description: "Study of places, features, and Earth's inhabitants",
+    icon: "globe",
+  },
+  {
+    id: "chemistry",
+    name: "Chemistry",
+    description: "Study of matter, its properties, and reactions",
+    icon: "flask",
+  },
+  {
+    id: "physics",
+    name: "Physics",
+    description: "Study of matter, energy, and natural forces",
+    icon: "atom",
+  },
+  {
+    id: "engineering",
+    name: "Engineering",
+    description: "Application of science and math to solve problems",
+    icon: "graduation-cap",
+  },
+  {
+    id: "medicine",
+    name: "Medicine",
+    description: "Study of health, disease, and treatment",
+    icon: "graduation-cap",
+  },
+  {
+    id: "computers",
+    name: "Computers",
+    description: "Computer science and information technology",
+    icon: "laptop",
+  },
+  {
+    id: "mathematics",
+    name: "Mathematics",
+    description: "Numbers, operations, geometry, and problem-solving",
+    icon: "calculator",
+  },
+  {
+    id: "arts",
+    name: "Arts",
+    description: "Visual arts, music, and creative expression",
+    icon: "palette",
+  },
+  {
+    id: "science",
+    name: "Science",
+    description: "Natural phenomena, experiments, and scientific inquiry",
+    icon: "flask",
+  },
+  {
+    id: "social-studies",
+    name: "Social Studies",
+    description: "History, geography, and cultural understanding",
+    icon: "globe",
+  },
+  {
+    id: "coding",
+    name: "Coding",
+    description: "Python programming basics with interactive IDE",
+    icon: "code",
+  },
+  {
+    id: "maps",
+    name: "Maps",
+    description: "Interactive world maps with focus on Africa",
+    icon: "map",
+  },
+]
