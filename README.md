@@ -49,12 +49,18 @@ SuguruAI is an educational tool leveraging large language models to support Ghan
 
 ### Usage
 
-1. Start the application:
-   ```bash
-   streamlit run main.py
-   ```
+## Features
 
-2. The application will open in your default web browser
+- **Loading Screen**: Initial application startup with progress indicator
+- **Grade Selection**: Choose from Primary 1-6 and JHS 1-3
+- **Subject Selection**: Standard subjects (Mathematics, English, Science, Social Studies) and special modules (Coding, Maps)
+- **Topic Navigation**: Main topics with subtopics for detailed learning
+- **Interactive Content**: Learn through cards with educational material
+- **Assessment**: Mid-topic quizzes, main quizzes, and exam practice
+- **Progress Tracking**: Track completion across topics
+- **Special Modules**:
+  - Coding: Learn Python basics with in-built IDE
+  - Maps: Explore offline maps focused on Africa
 
 3. Select your educational level, subject, and grade
 

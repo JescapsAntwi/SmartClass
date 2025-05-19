@@ -8,7 +8,6 @@ This document details the user journey through the SmartClass application, from 
 ### 1. Application Launch
 - **Loading Screen**
   - Application displays a branded loading screen with SmartClass logo
-  - Progress indicator shows application initialization
   - Welcome message appears: "Welcome to SmartClass - Your Offline Learning Companion"
   - A prominent "Start Learning" button appears once loading is complete
 
