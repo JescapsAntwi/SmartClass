@@ -85,6 +85,8 @@ suguruai/
 
 ## Important
 
+The model and related data is bigger than GitHub file size requirements so the model and its support system couldn't be uploaded.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
