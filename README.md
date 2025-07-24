@@ -83,7 +83,7 @@ suguruai/
 └── README.md           # This file
 ```
 
-## Import
+## Importa
 
 ## Contributing
 
